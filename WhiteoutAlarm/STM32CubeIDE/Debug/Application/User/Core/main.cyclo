@@ -1,0 +1,8 @@
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:924:6:StartDefaultTask	1
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:281:6:SystemClock_Config	1
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:150:5:main	3
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:902:5:__io_putchar	4
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:908:10:map	1
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:912:6:HAL_ADC_ConvCpltCallback	1
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:980:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/WhiteoutAlarm/Core/Src/main.c:997:6:Error_Handler	1
